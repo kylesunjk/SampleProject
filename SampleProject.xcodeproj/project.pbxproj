@@ -86,6 +86,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		23EB810F701BE718133056E0 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		23EB81180B657B62819802F0 /* SampleProjectTests */ = {
 			isa = PBXGroup;
 			children = (
@@ -142,6 +149,7 @@
 				23EB84032C42D2BC447C5DBB /* General */,
 				23EB839C1B88F75E10AF3EAD /* Services */,
 				23EB88C206682869D2A8DC73 /* Vendors */,
+				23EB810F701BE718133056E0 /* Resources */,
 			);
 			path = SampleProject;
 			sourceTree = "<group>";
